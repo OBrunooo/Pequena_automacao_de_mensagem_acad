@@ -1,0 +1,13 @@
+button {
+    width: 150px;
+    border-radius: 5px;
+}
+
+#tempo button {
+    text-align: center;
+    width: 70px;
+}
+
+#tempo input{
+    height: 30px;
+}
